@@ -1,0 +1,31 @@
+{
+  "author": "mitchellsullivan",
+  "bugs": {
+    "url": "https://github.com/mitchellsullivan/react-admin-data-jhipster/issues"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "react-admin": "^3.14.4",
+    "tslib": "^2.2.0"
+  },
+  "description": "Data provider for JHipster backend (with filtered entities)",
+  "devDependencies": {
+    "@types/node": "14.14.31",
+    "@types/lodash": "^4.14.169",
+    "typescript": "^4.2.4"
+  },
+  "homepage": "https://github.com/mitchellsullivan/react-admin-data-jhipster#readme",
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "name": "react-admin-data-jhipster",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mitchellsullivan/react-admin-data-jhipster.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "version": "0.0.1",
+  "keywords": ["React Admin", "Spring", "JHipster", "Data Provider"]
+}
